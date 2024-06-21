@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "252908964586",
+    "project_id": "seas-9at7ui",
+    "storage_bucket": "seas-9at7ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:252908964586:android:7406f588a552ad2daca593",
+        "android_client_info": {
+          "package_name": "com.msu.seas"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmjhxTycyromKI351Hdav1wWeem2WWAUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
