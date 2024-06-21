@@ -1,6 +1,6 @@
 # SEMS
 
-A new Flutter project.
+School Event Management System
 
 ## Getting Started
 
